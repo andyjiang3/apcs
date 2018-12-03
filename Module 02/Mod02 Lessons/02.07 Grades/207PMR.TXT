@@ -1,0 +1,13 @@
+------------------------------------------------------------------------
+This is the project README file. Here, you should describe your project.
+Tell the reader (someone who does not know anything about this project)
+all he/she needs to know. The comments should usually include at least:
+------------------------------------------------------------------------
+
+PROJECT TITLE: 2.07 Grades
+PURPOSE OF PROJECT: Calculating average grade of tests using arithmetic  expressions
+VERSION or DATE: 6/16/18
+AUTHORS: Andy Jiang
+
+-------------------------------PMR--------------------------------------
+<+s> I enjoy making a program that calculate the average grade of tests. I had to really think of ways to use variables and making a easy to read code. I love using cast, assignment operators, and increment operators. This assignment was tons of fun and enjoyable.

@@ -1,0 +1,16 @@
+------------------------------------------------------------------------
+This is the project README file. Here, you should describe your project.
+Tell the reader (someone who does not know anything about this project)
+all he/she needs to know. The comments should usually include at least:
+------------------------------------------------------------------------
+
+PROJECT TITLE: Currency Conversion
+PURPOSE OF PROJECT: The Currency class converts an amount of money from a specific country into the equivalent currency of another country given the current exchange rate.
+VERSION or DATE: 6/22/18
+AUTHORS: Andy Jiang
+
+-------------------------------PMR--------------------------------------
+Currency exchange rate: Bank of America
+Link: https://www.bankofamerica.com/foreign-exchange/foreign-currency-exchange.go
+
+<+s> This assignment was very fun and interesting. I love using arithmetic and variables to create currency conversion from 3 different countries. The Souvenir Purchases portion made me use casting and modulus. All in all, this was a quiet easy and informative assignment. 
