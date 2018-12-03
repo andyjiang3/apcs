@@ -1,0 +1,14 @@
+------------------------------------------------------------------------
+This is the project README file. Here, you should describe your project.
+Tell the reader (someone who does not know anything about this project)
+all he/she needs to know. The comments should usually include at least:
+------------------------------------------------------------------------
+
+PROJECT TITLE: Accepting User Input
+PURPOSE OF PROJECT: Creating a grade calculator using the Scanner class. 
+VERSION or DATE: 6/24/18
+AUTHORS: Andy Jiang
+
+---------------------------------PMR------------------------------------
+
+<+s> This lesson was interesting. Its really cool to see the progression of my coding knowledge, as I am able to redo older projects to make it better. Using the Scanner class was a lot of fun. It made the user interaction more professional and interactive. By allowing user input, there can be more customization and choices. It was a lot of fun coding this assignment. 

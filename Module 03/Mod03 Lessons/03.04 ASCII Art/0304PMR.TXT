@@ -1,0 +1,14 @@
+------------------------------------------------------------------------
+This is the project README file. Here, you should describe your project.
+Tell the reader (someone who does not know anything about this project)
+all he/she needs to know. The comments should usually include at least:
+------------------------------------------------------------------------
+
+PROJECT TITLE: ASCII Art
+PURPOSE OF PROJECT: Using escape sequence and string to produce a ASCII Art
+VERSION or DATE: 6/23/18
+AUTHORS: Andy Jiang
+
+--------------------------------PMR-------------------------------------
+
+<+s> This lesson was very fun and made me think creatively. I enjoy using escape sequence and strings to produce a ASCII Art. It made me think of ways to use the escape character to produce the art I want. For example, I used the escape sequence \\ to create a backslash and used \n to make a line break. 

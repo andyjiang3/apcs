@@ -1,0 +1,14 @@
+------------------------------------------------------------------------
+This is the project README file. Here, you should describe your project.
+Tell the reader (someone who does not know anything about this project)
+all he/she needs to know. The comments should usually include at least:
+------------------------------------------------------------------------
+
+PROJECT TITLE: Online Purchase
+PURPOSE OF PROJECT: Using the Scanner Class, String Class, and other methods to create a online purchase shop.
+VERSION or DATE: 6/24/18
+AUTHORS: Andy Jiang
+
+------------------------------PMR---------------------------------------
+
+<+s> I enjoy using the information I learned in this module to create a online purchase. I had to use the string class to get specific part of the text and the scanner class to get user input. Additionally, it was really fun using parsing to convert between String and int or double. 
