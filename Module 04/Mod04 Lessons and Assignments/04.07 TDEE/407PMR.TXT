@@ -1,0 +1,14 @@
+------------------------------------------------------------------------
+This is the project README file. Here, you should describe your project.
+Tell the reader (someone who does not know anything about this project)
+all he/she needs to know. The comments should usually include at least:
+------------------------------------------------------------------------
+
+PROJECT TITLE: TDEE
+PURPOSE OF PROJECT: Using BMR and AF, activity factor, it calculate TDEE by using user input
+VERSION or DATE: 7/11/18
+AUTHORS: Andy Jiang
+
+-----------------------------PMR----------------------------------------
+
+<+s> Using logical operators are very useful in many ways. I can test whether multiple conditions are met using logical operators, making it short and simple. I enjoy creating a  system that calculate the TDEE based on an user's activity factor, gender, and BMR. This lesson was really fun as I was able to implement everything I learn so far. 
