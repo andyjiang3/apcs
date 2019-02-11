@@ -10,4 +10,4 @@ I am not responsible for the use of this respository for unintentional purposes.
 
 IDE: BlueJ
 
-Note: Some files might be messed up as I tested some stuff after submission and didn't bother to change it back. 
+Note: Some files might be messed up as I tested some stuff after submission. 
